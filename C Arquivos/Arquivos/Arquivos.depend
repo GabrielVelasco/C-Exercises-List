@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580606372 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\c arquivos\arquivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

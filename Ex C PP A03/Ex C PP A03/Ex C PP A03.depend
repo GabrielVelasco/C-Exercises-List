@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568118853 source:c:\users\gabriel velasco cam\iclouddrive\documentos\ufu bcc\pp\projetos\ex c pp a03\ex c pp a03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

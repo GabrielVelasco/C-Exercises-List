@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574605001 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\c funcoes\c funcoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574605163 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\c funcoes\c funcoes\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575251813 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\c funcoes\c funcoes\main13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

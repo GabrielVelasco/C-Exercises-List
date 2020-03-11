@@ -1,1 +1,1 @@
-# C-Exercises-List
+Practicing using C.
